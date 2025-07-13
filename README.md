@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0013-roman-to-integer) |
+| [0009-palindrome-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0009-palindrome-number) |
 ## String
 |  |
 | ------- |
