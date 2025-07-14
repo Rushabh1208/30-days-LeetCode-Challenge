@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0015-3sum](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
