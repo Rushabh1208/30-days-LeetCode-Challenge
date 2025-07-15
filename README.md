@@ -13,6 +13,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0035-search-insert-position) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0035-search-insert-position) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
