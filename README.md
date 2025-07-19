@@ -45,6 +45,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
+| [0010-regular-expression-matching](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0010-regular-expression-matching) |
 ## Trie
 |  |
 | ------- |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0136-single-number) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
