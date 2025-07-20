@@ -16,6 +16,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0136-single-number) |
+| [0066-plus-one](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0013-roman-to-integer](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0013-roman-to-integer) |
 | [0009-palindrome-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0009-palindrome-number) |
 | [0007-reverse-integer](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
