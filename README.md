@@ -48,6 +48,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
 | [0010-regular-expression-matching](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0010-regular-expression-matching) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Sliding Window
 |  |
 | ------- |
