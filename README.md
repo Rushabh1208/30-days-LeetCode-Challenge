@@ -17,12 +17,14 @@
 | [0088-merge-sorted-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0136-single-number) |
 | [0066-plus-one](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0066-plus-one) |
+| [1813-maximum-erasure-value](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/1813-maximum-erasure-value) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0013-roman-to-integer) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1813-maximum-erasure-value](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/1813-maximum-erasure-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1813-maximum-erasure-value](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/1813-maximum-erasure-value) |
 ## Two Pointers
 |  |
 | ------- |
