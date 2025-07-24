@@ -27,6 +27,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1813-maximum-erasure-value](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/1813-maximum-erasure-value) |
 | [0169-majority-element](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0014-longest-common-prefix](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
 | [0010-regular-expression-matching](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0010-regular-expression-matching) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [0242-valid-anagram](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0016-3sum-closest](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
