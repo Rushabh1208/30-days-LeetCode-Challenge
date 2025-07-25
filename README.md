@@ -19,6 +19,7 @@
 | [0066-plus-one](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0066-plus-one) |
 | [1813-maximum-erasure-value](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/1813-maximum-erasure-value) |
 | [0169-majority-element](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0169-majority-element) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [1813-maximum-erasure-value](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/1813-maximum-erasure-value) |
 | [0169-majority-element](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0242-valid-anagram) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0011-container-with-most-water) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
