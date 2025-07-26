@@ -58,6 +58,7 @@
 | [0010-regular-expression-matching](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0010-regular-expression-matching) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [0242-valid-anagram](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0242-valid-anagram) |
+| [0020-valid-parentheses](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
