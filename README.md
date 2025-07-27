@@ -20,6 +20,7 @@
 | [1813-maximum-erasure-value](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/1813-maximum-erasure-value) |
 | [0169-majority-element](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [0219-contains-duplicate-ii](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0169-majority-element](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0242-valid-anagram) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [0219-contains-duplicate-ii](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1813-maximum-erasure-value](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/1813-maximum-erasure-value) |
+| [0219-contains-duplicate-ii](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
