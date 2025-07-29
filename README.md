@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0724-find-pivot-index](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,4 +132,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
