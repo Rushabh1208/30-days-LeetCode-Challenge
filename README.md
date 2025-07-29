@@ -22,6 +22,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [0219-contains-duplicate-ii](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0217-contains-duplicate](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0035-search-insert-position) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +111,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
