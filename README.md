@@ -21,6 +21,7 @@
 | [0169-majority-element](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [0219-contains-duplicate-ii](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
+| [0217-contains-duplicate](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [0219-contains-duplicate-ii](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0088-merge-sorted-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0242-valid-anagram) |
+| [0217-contains-duplicate](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
