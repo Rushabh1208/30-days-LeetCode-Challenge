@@ -26,6 +26,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0724-find-pivot-index](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0724-find-pivot-index) |
 | [0053-maximum-subarray](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
+| [0560-subarray-sum-equals-k](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,4 +141,5 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0724-find-pivot-index) |
+| [0560-subarray-sum-equals-k](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
