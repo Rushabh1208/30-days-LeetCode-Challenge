@@ -25,6 +25,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0724-find-pivot-index](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0724-find-pivot-index) |
+| [0053-maximum-subarray](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0169-majority-element) |
+| [0053-maximum-subarray](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 ## Trie
 |  |
 | ------- |
