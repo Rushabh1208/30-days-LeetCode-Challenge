@@ -27,6 +27,7 @@
 | [0724-find-pivot-index](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0724-find-pivot-index) |
 | [0053-maximum-subarray](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
+| [0152-maximum-product-subarray](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0152-maximum-product-subarray) |
 ## Trie
 |  |
 | ------- |
