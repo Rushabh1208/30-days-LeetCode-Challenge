@@ -31,6 +31,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0031-next-permutation](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0075-sort-colors) |
+| [0645-set-mismatch](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,11 +128,13 @@
 | [0242-valid-anagram](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0242-valid-anagram) |
 | [0217-contains-duplicate](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0075-sort-colors](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0075-sort-colors) |
+| [0645-set-mismatch](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
 | ------- |
