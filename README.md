@@ -29,6 +29,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0152-maximum-product-subarray](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0031-next-permutation](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0088-merge-sorted-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0031-next-permutation](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0031-next-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
