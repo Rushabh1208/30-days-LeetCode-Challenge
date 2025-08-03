@@ -81,6 +81,7 @@
 | [0242-valid-anagram](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0242-valid-anagram) |
 | [0020-valid-parentheses](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0020-valid-parentheses) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0031-next-permutation](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0075-sort-colors) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,4 +159,8 @@
 | [0724-find-pivot-index](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0724-find-pivot-index) |
 | [0560-subarray-sum-equals-k](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
