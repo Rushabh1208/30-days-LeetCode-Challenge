@@ -69,6 +69,7 @@
 | [0009-palindrome-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0009-palindrome-number) |
 | [0007-reverse-integer](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0066-plus-one) |
+| [0002-add-two-numbers](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0002-add-two-numbers) |
 ## String
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0010-regular-expression-matching) |
+| [0002-add-two-numbers](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0002-add-two-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
