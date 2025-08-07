@@ -32,6 +32,7 @@
 | [0031-next-permutation](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0075-sort-colors) |
 | [0645-set-mismatch](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0645-set-mismatch) |
+| [0268-missing-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0217-contains-duplicate](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0645-set-mismatch) |
+| [0268-missing-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,6 +73,7 @@
 | [0007-reverse-integer](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0066-plus-one) |
 | [0002-add-two-numbers](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -133,12 +137,14 @@
 | [0217-contains-duplicate](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0075-sort-colors](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0075-sort-colors) |
 | [0645-set-mismatch](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0645-set-mismatch) |
+| [0268-missing-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0645-set-mismatch) |
+| [0268-missing-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
