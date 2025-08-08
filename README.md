@@ -33,6 +33,7 @@
 | [0075-sort-colors](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0075-sort-colors) |
 | [0645-set-mismatch](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0645-set-mismatch) |
 | [0268-missing-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [0031-next-permutation](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0075-sort-colors) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
