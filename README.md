@@ -34,6 +34,7 @@
 | [0645-set-mismatch](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0645-set-mismatch) |
 | [0268-missing-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0645-set-mismatch) |
 | [0268-missing-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
