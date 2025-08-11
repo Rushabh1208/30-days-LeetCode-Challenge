@@ -35,6 +35,7 @@
 | [0268-missing-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0054-spiral-matrix](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,4 +183,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
