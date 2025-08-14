@@ -94,6 +94,7 @@
 | [0058-length-of-last-word](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0125-valid-palindrome) |
 | [0006-zigzag-conversion](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0006-zigzag-conversion) |
+| [0032-longest-valid-parentheses](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0010-regular-expression-matching](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0152-maximum-product-subarray) |
+| [0032-longest-valid-parentheses](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0032-longest-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
