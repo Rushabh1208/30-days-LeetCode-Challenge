@@ -95,6 +95,7 @@
 | [0125-valid-palindrome](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0125-valid-palindrome) |
 | [0006-zigzag-conversion](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0038-count-and-say) |
 ## Sliding Window
 |  |
 | ------- |
