@@ -36,6 +36,7 @@
 | [0283-move-zeroes](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0054-spiral-matrix](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0054-spiral-matrix) |
+| [0036-valid-sudoku](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0645-set-mismatch](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0645-set-mismatch) |
 | [0268-missing-number](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0036-valid-sudoku](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0054-spiral-matrix) |
+| [0036-valid-sudoku](https://github.com/Rushabh1208/30-days-LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 ## Simulation
 |  |
 | ------- |
